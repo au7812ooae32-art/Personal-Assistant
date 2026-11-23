@@ -6,9 +6,9 @@ Personal assistant to manage our personal and profesional activities in a struct
 - Google Maps
 - Notify To Voice
 
-Structured priority personal
+Manager structured priority 
 1. Personal context (Finances, Family, Solvency, ...)
-1. Profesional trajectory (Coherency, Consistency, ...)
-2. Personal/Profesional programs (Structured schedule, Activities types, Strategy, Success Keys Activities, ... )
-3. Personal/Profesional Activities (Week structured tasks, ...)
-4. Personal/Profesional Tasks (Specific hours tasks, ...)
+2. Profesional trajectory (Coherency, Consistency, ...)
+3. Personal/Profesional programs (Structured schedule, Activities types, Strategy, Success Keys Activities, ... )
+4. Personal/Profesional Activities (Week structured tasks, ...)
+5. Personal/Profesional Tasks (Specific hours tasks, ...)
